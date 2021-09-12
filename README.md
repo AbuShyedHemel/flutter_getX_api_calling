@@ -1,6 +1,6 @@
 # getx_api_calling
 
-A new Flutter project.
+A Flutter project that manage state using getX and Calling makeup api from https://makeup-api.herokuapp.com/.
 
 ## Getting Started
 
